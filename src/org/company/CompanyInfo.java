@@ -2,9 +2,14 @@ package org.company;
 
 public class CompanyInfo {
 	
+<<<<<<< HEAD
+	private void mem2() {
+		System.out.println("member2 done is coding");
+=======
 	private void mem1() {
 		System.out.println("member11 done my codings");
 
+>>>>>>> f37ef077d749c46f92906d888853bdf5eeb34d3c
 	}
 	private void companyName(String name) {
 		System.out.println("The Employee Name is " + name);
