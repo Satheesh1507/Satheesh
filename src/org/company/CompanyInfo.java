@@ -1,6 +1,11 @@
 package org.company;
 
 public class CompanyInfo {
+	
+	private void mem1() {
+		System.out.println("member11 done my codings");
+
+	}
 	private void companyName(String name) {
 		System.out.println("The Employee Name is " + name);
 
